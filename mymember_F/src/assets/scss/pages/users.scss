@@ -1,0 +1,917 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;400&display=swap');
+ .h1-large{
+  color: #00bfd8;
+  // font: 600 3.5rem/4rem "Poppins", sans-serif !important;
+  font:700 4.5rem/5rem 'Raleway', sans-serif  !important; 
+  }
+  .MemberColor{
+    color: #393939;
+  }
+  .media-body{
+    font-family: 'Raleway', sans-serif; 
+    font-weight: 700;
+    
+  }
+  .h2-heading{
+    margin-top:20px;
+  }
+
+//   p{
+//   font-family: 'Raleway', sans-serif; 
+  
+//   font-size:17px
+//  }
+
+
+
+.cards-1 .h2-heading{
+    
+    font-weight:700;
+    font-size:3rem !important;
+    width:100%
+
+}
+.CustomerTrust{
+  font-weight:700;
+  font-size:20px;
+  margin-bottom:2rem
+}
+.fontAweosme{
+  color:#00bfd8;
+}
+.aboutFont{
+  font-size:23px;
+  color:#00bfd8;
+}
+.aboutFont1{
+  font-size:40px;
+  color:#00bfd8;
+}
+.CustomerCarousel{
+  background:#f7fcfd;
+  height:130px
+  
+}
+.footer .footer-col.third .fa-stack{
+  margin-right:9px !important;
+}
+.c1{
+  margin-top:50px
+}
+.of {
+    background: #fff;
+}
+.MuiSvgIcon-root{
+ 
+  font-size: 3.1rem !important;
+   color:#00bfd8;
+
+}
+.cards-1 .card-title{
+  
+  font-weight:700 !important
+}
+.powerfullCrm{
+  font-weight:700 !important;
+  font-size:3rem !important
+}
+.OurSpeciality{
+   font-weight:700 !important;
+  font-size:3rem !important
+}
+.cards-2 .h2-heading{
+     font-weight:700 !important;
+  font-size:3rem !important
+  
+}
+a.nav-link.page-scroll.Detail12 {
+    color: #fff;
+}
+.RegistrFill{
+  font-size:3rem;
+  font-weight:700
+}
+.basic-3 .h2-heading{
+    font-size:3rem;
+  font-weight:700
+}
+.cards-3 .h2-heading{
+   font-size:3rem;
+  font-weight:700
+}
+@media (min-width: 992px)
+{
+.footer {
+    margin-left:0px !important;
+}
+}
+.form-2 .h2-heading{
+   font-size:3rem;
+  font-weight:700
+}
+/*** User pages ***/
+
+.users-avatar-shadow {
+  box-shadow: 2px 4px 14px 0 rgba(34, 41, 47, 0.4);
+}
+
+// aggrid actions dropdown
+.actions-dropdown {
+  .btn-group .btn {
+    box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.14) !important;
+    border-radius: 0.5rem !important;
+  }
+}
+// date picker width
+.react-datepicker-wrapper {
+  width: 100%;
+}
+
+// User view Table
+.permissions-table {
+  td,
+  th {
+    padding: 0.5rem;
+  }
+}
+
+// User view info
+.users-page-view-table .user-info {
+  div {
+    padding: 0.5rem;
+  }
+  .user-info-title {
+    min-width: 140px;
+  }
+}
+
+@media (max-width: 576px) {
+  .ag-grid-table {
+    .ag-paging-panel {
+      height: 160px;
+    }
+    .sort-dropdown {
+      margin-bottom: 1rem;
+    }
+  }
+}
+
+button.btn-lg.fides {
+  color: #14a331;
+  font-weight: 500;
+}
+button.btn-lg.fides5{
+  color: #594494;
+  font-weight: 500;
+
+}
+button.btn-lg.fides1{
+  color: green;
+  font-weight: 500;
+}
+button.btn-lg.fides4{
+  color: #4d94ff;
+  font-weight: 500;
+
+}
+button.btn-lg.fides2{
+  color: #186ae9;
+  font-weight: 500;
+
+}
+button.btn-lg.fides3{
+  color: #3846dd;
+  font-weight: 500;
+
+}
+button.mr-1.mb-1.btn.btn-outline-primary,button.mr-1.mb-1.btn.btn-outline-flat-danger,button.mr-1.mb-1.btn.btn-outline-flat-dark {
+  display: grid;
+  border: 0;
+  align-items: center;
+  text-align: -webkit-center;
+}
+// rohit student list page
+.list-icon{
+  width: 100%;
+  text-align: right;
+}
+[dir] .btn.btn-secondary{
+  padding: 12px;
+  font-size: 14px;
+  background: #fff0!important;
+}
+[dir] .btn.btn-secondary:hover {
+  color: grey!important;
+  box-shadow: none!important;
+}
+.icon-list{
+  width: 100%;
+  text-align: right;
+}
+button.btn-lg.fides.btn.waves-effect.waves-light.btn-2.btn.btn-secondary {
+  background: #0000!important;
+}
+button.btn-lg.fides5.btn.waves-effect.waves-light.btn-2.btn.btn-secondary {
+  background: #0000!important;
+}
+button.btn-lg.fides4.btn.waves-effect.waves-light.btn-2.btn.btn-secondary {
+  background: #0000!important;
+}
+button.btn-lg.fides4.btn.waves-effect.waves-light.btn-2.btn.btn-secondary {
+  background: #0000!important;
+}
+button.btn-lg.fides3.btn.waves-effect.waves-light.btn-2.btn.btn-secondary {
+  background: #0000!important;
+}
+button.btn-lg.fides2.btn.waves-effect.waves-light.btn-2.btn.btn-secondary {
+  background: #0000!important;
+}
+button.btn-lg.fides1.btn.waves-effect.waves-light.btn-2.btn.btn-secondary {
+  background: #0000!important;
+}
+button.btn-lg.fides0.btn.waves-effect.waves-light.btn-2.btn.btn-secondary {
+  background: #0000!important;
+}
+button.btn-lg.fides0.btn.waves-effect.waves-light.btn-2.btn.btn-secondary {
+  color: deeppink;
+}
+.main-menu .navbar-header {
+  width: 260px;
+  height: 9rem!important;
+  position: relative;
+  transition: 300ms ease all;
+}
+[dir] .main-menu.menu-light .navigation li a {
+  padding: 10px 10px !important;
+}
+.logo-1{
+  width: 120px;
+  margin-left: 55px;
+}
+.slt{
+  padding: 8px 0px;
+  border-color: #ccc;
+  border-radius: 5px;
+  width: 100%;
+}
+[dir] .todo-application .task-sidebar .task-body {
+  padding: 2rem;
+  height: 500px!important;
+  overflow-y: scroll;
+}
+[dir] .app-calendar .add-event-sidebar .add-event-body {
+  padding: 1rem;
+  height: 500px!important;
+  overflow-y: scroll;
+}
+.npt-1{
+  width: 20px !important;
+  height: 20px  !important;
+  padding: 0  !important;
+  border-radius: 100%!important;
+}
+.nav.nav-tabs .nav-item .nav-link {
+  color: #000;
+  font-size: 16px!important;
+  min-width: auto;
+  font-weight: 450;
+}
+.icon-list::before {
+ content: unset;
+}
+.headingtext{
+  background-color: #32b7e6 !important;
+  color: #fff !important;
+  font-size: 20px;
+  padding: 10px!important;
+}
+.tx-right{
+  text-align: right;
+}
+.bt-s{
+  margin: 0px 10px !important;
+}
+
+.btn-secondary:focus, .btn-secondary:active{
+  color: #000 !important;
+}
+// rohit student list page ending
+
+// rohit Statistics list page
+
+.pd-body{
+  padding: 0px!important;
+}
+// .sc-hKgILt.sc-eCssSg.sc-iqHYGH.jpnrBA.kMXuPO.gHOQQy.rdt_TableCol {
+//   background: #1387b0;
+// }
+.th-fixd{
+  padding: 15px;
+  width: 100%;
+  text-align: left;
+  margin-bottom: 8px;
+  background: #1387b0;
+  color: #fff;
+}
+.cl-h{
+  margin-top: 22px !important;
+}
+// rohit Statistics list page ending
+
+// rohit mymoney list page ending
+.cd-h{
+  background-color: orange !important;
+}
+.cd-h1{
+  background-color: green !important;
+}
+.cd-h2{
+  background-color: blue !important;
+}
+.cd-h3{
+  background-color: blue !important;
+}
+// rohit mymoney list page ending
+
+// rohit mymoney finance page
+.lf-text{
+  width: 50%;
+  float: left;
+}
+.rh-text{
+  width: 50%;
+  float: left;
+}
+.box{
+  width: 100%;
+  width: 100%;
+  padding: 20px 0px;
+  border-bottom: 1px solid#ccc;
+}
+.cd_height{
+  text-Align:center;
+  font-Size:20px;
+  height: 400px;
+  overflow-y: scroll;
+  background: #f5f5f5;
+}
+.cd_height1{
+  text-Align:center;
+  font-Size:20px;
+  height: 215px;
+  // overflow-y: scroll;
+  background: #f5f5f5;
+}
+.st-1{
+  font-size: 14px;
+  color: #000;
+  font-size: bold;
+}
+.st-2{
+  font-size: 14px;
+  color: rgb(119, 108, 108);
+  font-size: bold;
+}
+.pd-b{
+  padding-bottom: 30px !important;
+}
+// rohit  mymoney finance  page end
+
+
+// rohit student list page mediaquerycss
+@media only screen and (max-width: 600px) {
+  .list-icon{
+    width: 100%;
+    text-align: center;
+  }
+  [dir] .btn.btn-secondary{
+    padding: 6px;
+    font-size: 8px;
+  }
+  [dir] .todo-application .task-sidebar .task-body {
+    padding: 1rem;
+    height: 500px!important;
+    overflow-y: scroll;
+  }
+  [dir] .app-calendar .add-event-sidebar .add-event-body {
+    padding: 1rem;
+    height: 500px!important;
+    overflow-y: scroll;
+  }
+}
+[dir] .btn:focus, [dir] .btn.focus, [dir] .btn:active, [dir] .btn.active {
+  box-shadow: none !important;
+  color: black !important;
+}
+// rohit student list page mediaquerycss ending
+
+
+// button csss dashboar
+button.mb-1.btn.btn-success.btn-sm {
+  border-color: #143221e8 !important;
+  background-color: #009d46db !important;
+  font-weight: 800 !important;
+}
+// button css end
+// cardheader statistics page
+.pd-add.card-header{
+  padding: 10px !important;
+  text-align: center !important;
+}
+// end
+// global card css
+[dir] .card .card-header {
+  border-bottom: none;
+  padding: 1rem 1rem 0;
+  background-color: transparent;
+}
+[dir] .card-body {
+  padding: 1rem;
+}
+// end 
+body{
+  font-family: 'Roboto', sans-serif !important;
+}
+// rohit_css_btn_view
+.btn-r-view{
+  background: #18d86edb !important;
+  color: #fff !important;
+  padding: 10px 17px !important;
+  margin-bottom: 0px !important;
+  font-size: 12px !important;
+}
+// rohit_css_myschool_Missyoucall
+.bx-1{
+  width: 80px;
+  float: left;
+  padding: 3px;
+}
+.bx-2{
+  width: 150px;
+  float: left;
+  padding: 3px;
+}
+.bx-main{
+  width: 100%;
+  display: inline-block;
+  padding: 0px !important;
+  background: #cccccc00;
+  border-bottom: 1px solid #cccccc78;
+}
+.st-name{
+  font-size: 15px;
+  color: black;
+  font-weight: 200;
+  margin-bottom: 4px;
+}
+.st-p{
+  font-size: 15px;
+  color:red;
+  margin-bottom: 4px;
+}
+.st-s{
+  font-size: 15px;
+  color:blue;
+  margin-bottom: 4px;
+}
+.btn_st_mis{
+  width: 37px;
+  font-size: 12px;
+  color: #fff;
+  background-color: #00a6e1;
+  border: none;
+}
+.btn_st_mi{
+  width: 37px;
+  font-size: 12px;
+  color: #fff;
+  background-color: red;
+  border: none;
+}
+.circle_1{
+    font-size: 12px;
+    background: #fff810e0;
+    color: #000;
+    width: 23px;
+    margin: auto;
+    margin-top: 5px;
+    border-radius: 100px;
+    height: 22px;
+}
+.cr-pdd{
+  padding: 4px !important;
+  overflow-y: scroll;
+  margin-top: 10px;
+}
+.card-blue{
+  background: #00a6e1 !important;
+}
+.card-red{
+  background: red !important;
+}
+::-webkit-scrollbar {
+  width: 5px !important;
+  height: 5px !important;
+}
+::-webkit-scrollbar-thumb {
+  background: #888 !important;
+}
+
+// rohit css for top nav wallet 
+.title-deposit-form{
+  text-align: center;
+  width: 100%;
+  padding-bottom: 20px;
+}
+.card-content{
+  text-align: center;
+}
+.icon-circle-diposit{
+  width: 70px;
+  height: 70px;
+  background: #0c8bb8 !important;
+  color: #fff;
+  padding: 17px;
+  border-radius: 100px;
+}
+.dis{
+  padding: 20px 40px;
+  font-size:18px;
+  
+  font-family: "Raleway", sans-serif !important;
+}
+
+.cen_card.col-sm-12.col-lg-6 {
+  margin: 0 auto;
+}
+.withdraw_top_title{
+  width: 100%;
+  display:inline-block;
+  text-align: center;
+}
+.withdraw_top_title h3{
+  padding: 20px 0px;
+}
+.paypal-deposit{
+  width: 80px;
+  float: right;
+  margin-top: 2px;
+}
+.paymentsecureimg{
+  width: 190px;
+}
+p.T-total-p {
+  width: 50%;
+  float: right;
+  text-align: right;
+}
+h5.T-total-h5 {
+  width: 50%;
+  float: left;
+}
+.T-total {
+  width: 100%;
+  display: inline-block;
+  padding: 8px 0px;
+  text-align: left;
+}
+button.cnfn-btn.btn.btn-secondary {
+  background: #00a6e1 !important;
+  width: 100%;
+  color: #fff !important;
+  margin-bottom: 10px;
+}
+.crdheight{
+  height: 340px !important;
+}
+[dir] .tp-hdr-menu {
+  margin: 0px 12px;
+  padding-top: 20px;
+}
+span.user-status.text_span_tp {
+  font-size: 14px;
+  color: #626262;
+}
+.dv_1.col-sm-6 {
+  text-align: left;
+  /* font-size: 20px !important; */
+}
+.dv_2.col-sm-6 {
+  text-align: right;
+}
+button.dv_button.btn.btn-secondary {
+  background: #00a6e1 !important;
+}
+.pt_mar{
+  margin-top: -3px;
+}
+// rohit css for top nav wallet 
+// CSS FOR STUDENTLISTTABLT ICON MODAL
+.img_eye_moda{
+  width: 60px;
+}
+[dir=ltr] .ey_a {
+  display: inline-flex;
+  list-style: none;
+  padding: 0px;
+}
+li.ey_b {
+  background: #cccccc82;
+  padding: 4px 12px;
+  margin-right: 8px;
+}
+button.btn_ey {
+  font-size: 14px !important;
+  font-weight: bold;
+  border: navajowhite;
+  color: #655e5e;
+  padding: 6px 13px;
+}
+button.ey_add {
+  background: #0f8bbb;
+  border: none;
+  color: #fff;
+  margin-top: 8px;
+}
+.tp_mar_ey{
+  margin-top: 15px;
+}
+.crd_hdr_ey.card-header {
+  padding: 7px !important;
+  background: #0f8bbb !important;
+}
+.crdtite_ey{
+  font-size: 15px !important;
+  color: #ffff !important;
+
+}
+.eye_crd{
+  width: 100%;
+  display: inline-block;
+}
+.eye_crd1{
+  width: 50%;
+  display: inline-block;
+}
+.eye_crd2{
+  width: 50%;
+  display: inline-block;
+}
+.tx_stg{
+  font-size: 12px !important;
+}
+.crd_hd_ey{
+  padding: 7px !important;
+  background:red !important; 
+}
+button.up_button_md.btn.btn-secondary {
+  background: #0f8bbb !important;
+  color: #fff !important;
+}
+.row_sp_top{
+  margin-top: 15px !important;
+}
+.ey_right_content{
+  width: 100%;
+  display: inline-block;
+  padding: 15px 0px;
+}
+.ey_bx_1 {
+  width: 100%;
+  display: inline-block;
+  border-bottom: 1px solid#ccc;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+button.bt_tab1_ey {
+  font-size: 12px !important;
+  border: none;
+  padding: 5px;
+  margin-right: 3px;
+  background: #33303069;
+  color: #fff;
+}
+button.bt_tab2_ey {
+  font-size: 12px !important;
+  border: none;
+  padding: 5px;
+  margin-right: 3px;
+  background: #ccad16;
+  color: #fff;
+}
+button.bt_tab3_ey {
+  font-size: 12px !important;
+  border: none;
+  padding: 5px;
+  margin-right: 3px;
+  background:green;
+  color: #fff;
+}
+.clr_right_side{
+  background: #cccccc45 !important;
+}
+.mdl_align_text{
+  width: 100%;
+  text-align: center;
+  display: inline-block;
+}
+button.btn_yes_call {
+  color: #0a753f !important;
+  border: none;
+  font-size: 16px;
+  padding: 11px 40px;
+  font-weight: bold;
+  margin: 15px 6px;
+  border: 1px solid#2cd07e !important;
+}
+button.btn_no_call {
+  color:red !important;
+  border: none;
+  font-size: 16px;
+  padding: 11px 40px;
+  font-weight: bold;
+  margin: 15px 6px;
+  border: 1px solid red !important;
+
+}
+
+// for statistics table
+// .ag-theme-material.ag-grid-table {
+//   height: 96px;
+// }
+
+/****** student rating   *************/
+.badge-light-dangers{
+  background-color:#e81011 !important;
+  border-radius: 50% !important;
+  color: #fff !important;
+  font-size: 0.8rem;
+  font-weight: 400;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  margin-top: 10px;
+}
+.badge-light-successs{
+  background-color:#28c76f !important;
+  border-radius: 50% !important;
+  color:#fff !important;
+  font-size: 0.8rem;
+  font-weight: 400;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.badge-light-yellows{
+  background-color:#fae100 !important;
+  border-radius: 50% !important;
+  color:rgb(7, 4, 4) !important;
+  font-size: 0.8rem;
+  font-weight: 400;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+
+/****** student rating end   *************/
+button.btn-lg.fides4.btn.waves-effect.waves-light.btn.btn-secondary {
+  padding: 20px 0;
+  font-weight:400;
+}
+
+
+
+
+
+
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.of{
+  overflow: hidden;
+}
+.btn-solid-reg:hover {
+    background-color: transparent;
+    color: #00bfd8;
+    text-decoration: none;
+}
+
+nav.navbar.navbar-expand-lg.fixed-top.navbar-light {
+    background: none;
+}
+
+a.btn-solid-reg.popup-with-move-anim {
+    background-color: #00bfd8;
+}
+
+a.btn-solid-reg {
+    background-color: #00bfd8;
+}
+
+a.btn-solid-lg.page-scroll {
+    background-color: #00bfd8;
+}
+
+nav.navbar.navbar-expand-lg.fixed-top.navbar-light.top-nav-collapse {
+  background: #fff;
+}
+@media (max-width: 992px){
+  #navbarsExampleDefault{
+    background: #fff;
+    color:black;
+  }
+  .Detail12{
+    color: black !important;
+  }
+  .btn2{
+  margin-bottom: 10px !important;
+  margin-left: -5px !important;
+}
+}
+/********************finance cards ******************/
+.box {
+  padding: 5px 0;
+}
+
+p.st-1 {
+  text-align: left;
+  margin-bottom: 7px;
+  padding-left: 11px;
+}
+.cd_height.card-body {
+  padding: 0.5rem 1rem;
+}
+
+/******************end ************************************/
+
+
+/************documents ***************************************/
+[dir=ltr] .collapse-icon .card-header:before {
+  content: "\f055";
+
+}
+[dir=ltr] .collapse-icon .card-header:after{
+  content: "\f055";
+}
+// .collapse-icon .card-header:after{
+//   content: "\e845";
+// }
+/***************************end *************************************************/
+ol {
+  margin-bottom: 0 !important;
+}
+.content-header-left.col-md-9.col-12.mb-2 {
+  margin-bottom: 0.5rem !important;
+}
+.ag-grid-actions.d-flex.justify-content-between.flex-wrap.mb-1 {
+  margin-bottom: 0 !important;
+}
+
+
+// csss rs sidemenubgactive17/3/21
+
+.btn-secondary.disabled, [dir] .btn-secondary:disabled {
+  background-color: #eb400c !important;
+  border-color: #eb400c !important;
+  
+}
